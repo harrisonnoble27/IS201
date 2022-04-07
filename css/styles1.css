@@ -1,0 +1,45 @@
+
+   #picconfide {
+    position: relative;
+    left: 380px;
+    bottom: 320px;
+
+  }
+  
+  #picbe {
+
+    position: relative;
+    left: 400px;
+    bottom: 145px ;
+
+  }
+  .Harrisonfooter {
+  
+    border: 10px rgb(158, 156, 156);
+    background-color: rgb(158, 156, 156);
+    text-align: center;
+    
+    
+  }
+
+  .bottom {
+    position: relative;
+    border: 10px rgb(158, 156, 156);
+    background-color: rgb(158, 156, 156);
+    text-align: center;
+    bottom: 8px;
+  
+  }
+
+  #left {
+    position: relative;
+    border: 10px rgb(158, 156, 156);
+    background-color: 10px coral;
+    left: 5px
+
+
+  }
+
+
+
+ 

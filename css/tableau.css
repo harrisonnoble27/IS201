@@ -1,0 +1,84 @@
+.header { 
+    text-align: center;
+    height: 100px;
+    background-color: rgb(114, 143, 206);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 100px;
+}
+
+.mbody{
+
+height: 50px;
+background-color: rgb(148, 148, 148);
+text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+line-height: 50px;
+}
+
+.footer{
+    height: 100px;
+    background-color: rgb(179, 127, 127);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    img{
+
+        width: 10%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+
+    }
+
+    .center{
+
+        text-align: center;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .footer{ 
+
+        text-align: center;
+        line-height: 100px;
+    }
+    .text{
+color:rgb(0, 0, 0);
+font-family: Verdana, Geneva, Tahoma, sans-serif
+
+    }
+
+    .tableauPlaceholder {
+          width: 500px;
+
+    }
+
+    .Harrisonfooter {
+        height: 200px;
+        border: 50px rgb(158, 156, 156);
+        background-color: rgb(158, 156, 156);
+        text-align: center;
+        
+        
+      }
+    
+      .bottom {
+        position: relative;
+        border: 30px rgb(158, 156, 156);
+        background-color: rgb(158, 156, 156);
+        text-align: center;
+        bottom: 25px;
+      
+      }
+
+      .button {
+
+        top: 5px;
+        left: 20px;
+      }
+
+      .done {
+
+        text-align: center;
+        color:rgb(129, 127, 255);
+      }
